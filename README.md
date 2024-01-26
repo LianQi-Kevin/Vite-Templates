@@ -5,3 +5,4 @@
 * [element-plus](https://element-plus.org/zh-CN/)
 * [Vite](https://vitejs.dev/)
 * [Vue3](https://cn.vuejs.org/guide/introduction.html)
+* [Vue-Router](https://router.vuejs.org/zh/)
